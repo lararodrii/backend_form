@@ -7,4 +7,5 @@ create table users (
 );
 
 insert into users (username, password) values ('admin', '123456');
-insert into users (username, password) values ('luciel', '123456');
+insert into users (username, password) values ('Lara', '123456');
+
